@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/h5bp/Front-end-Developer-Interview-Questions.git"
+    "url": "git+https://github.com/doc22940/frontend-developer-questions.git"
   },
   "keywords": [
     "css",
@@ -36,7 +36,7 @@
   "bugs": {
     "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions/issues"
   },
-  "homepage": "https://github.com/h5bp/Front-end-Developer-Interview-Questions#readme",
+  "homepage": "https://github.com/doc22940/frontend-developer-questions#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.1",
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.6",
